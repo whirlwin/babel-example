@@ -1,0 +1,11 @@
+{
+  "name": "babel-example",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node foo.js"
+  },
+  "dependencies": {
+    "babel": "~4.7.8"
+  }
+}
